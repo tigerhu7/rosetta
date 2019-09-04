@@ -1,9 +1,9 @@
-title: Hacker-Blog
+title: Hacker Theme Blog
 description: "A Jekyll Blog Theme For Hackers"
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  name: "Hufeng"
+  email: "tigerhu"
+  url: "https://www.hufeng.xyz/rosetta"
 
 baseurl: /
 
@@ -29,4 +29,4 @@ plugins:
 
 # Custom variables
 owner : "SomeHacker"
-year : "2018"
+year : "2019"
